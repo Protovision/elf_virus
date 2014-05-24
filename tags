@@ -1,0 +1,294 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+$0x0	1host	/^  400479:	80 3d 78 04 20 00 00 	cmpb   $0x0,0x200478(%rip)        # 6008f8 <completed.6349>$/;"	v
+$0x0	1host	/^  4004e0:	48 83 3d 30 02 20 00 	cmpq   $0x0,0x200230(%rip)        # 600718 <__JCR_END__>$/;"	v
+$0x0	1host	/^  4004ee:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x0	1host	/^  40052c:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x0	2host	/^  400999:	80 3d 08 0a 20 00 00 	cmpb   $0x0,0x200a08(%rip)        # 6013a8 <completed.6349>$/;"	v
+$0x0	2host	/^  400a00:	48 83 3d 38 07 20 00 	cmpq   $0x0,0x200738(%rip)        # 601140 <__JCR_END__>$/;"	v
+$0x0	2host	/^  400a0e:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x0	2host	/^  400a6e:	be 00 00 00 00       	mov    $0x0,%esi$/;"	v
+$0x0	2host	/^  400a76:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x0	2host	/^  400a89:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x0	2host	/^  400aaf:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x0	2host	/^  400ad9:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x0	2host	/^  400aff:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x0	2host	/^  400b1d:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x0	2host	/^  400b5d:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x0	2host	/^  400b74:	ba 00 00 00 00       	mov    $0x0,%edx$/;"	v
+$0x0	2host	/^  400b79:	be 00 00 00 00       	mov    $0x0,%esi$/;"	v
+$0x0	2host	/^  400b88:	ba 00 00 00 00       	mov    $0x0,%edx$/;"	v
+$0x0	2host	/^  400b8d:	be 00 00 00 00       	mov    $0x0,%esi$/;"	v
+$0x0	2host	/^  400bc8:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x0	2host	/^  400be0:	ba 00 00 00 00       	mov    $0x0,%edx$/;"	v
+$0x0	2host	/^  400c01:	ba 00 00 00 00       	mov    $0x0,%edx$/;"	v
+$0x0	2host	/^  400c86:	be 00 00 00 00       	mov    $0x0,%esi$/;"	v
+$0x0	2host	/^  400c8e:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x0	2host	/^  400d4d:	48 83 7d c8 00       	cmpq   $0x0,-0x38(%rbp)$/;"	v
+$0x0	2host	/^  400d60:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x0	2host	/^  400d6d:	ba 00 00 00 00       	mov    $0x0,%edx$/;"	v
+$0x0	2host	/^  400e0c:	ba 00 00 00 00       	mov    $0x0,%edx$/;"	v
+$0x0	2host	/^  400e36:	83 7d dc 00          	cmpl   $0x0,-0x24(%rbp)$/;"	v
+$0x0	2host	/^  400e61:	ba 00 00 00 00       	mov    $0x0,%edx$/;"	v
+$0x0	2host	/^  400e66:	be 00 00 00 00       	mov    $0x0,%esi$/;"	v
+$0x0	2host	/^  400e7c:	b8 00 00 00 00       	mov    $0x0,%eax$/;"	v
+$0x1	1host	/^  400499:	48 83 eb 01          	sub    $0x1,%rbx$/;"	v
+$0x1	1host	/^  4004a8:	48 83 c0 01          	add    $0x1,%rax$/;"	v
+$0x1	1host	/^  4004c6:	c6 05 2b 04 20 00 01 	movb   $0x1,0x20042b(%rip)        # 6008f8 <completed.6349>$/;"	v
+$0x1	1host	/^  40051f:	be 01 00 00 00       	mov    $0x1,%esi$/;"	v
+$0x1	1host	/^  4005ad:	48 83 c3 01          	add    $0x1,%rbx$/;"	v
+$0x1	2host	/^  4009b9:	48 83 eb 01          	sub    $0x1,%rbx$/;"	v
+$0x1	2host	/^  4009c8:	48 83 c0 01          	add    $0x1,%rax$/;"	v
+$0x1	2host	/^  4009e6:	c6 05 bb 09 20 00 01 	movb   $0x1,0x2009bb(%rip)        # 6013a8 <completed.6349>$/;"	v
+$0x1	2host	/^  400a3f:	be 01 00 00 00       	mov    $0x1,%esi$/;"	v
+$0x1	2host	/^  400af9:	48 83 f8 01          	cmp    $0x1,%rax$/;"	v
+$0x1	2host	/^  400c4d:	b8 01 00 00 00       	mov    $0x1,%eax$/;"	v
+$0x1	2host	/^  400dd4:	ba 01 00 00 00       	mov    $0x1,%edx$/;"	v
+$0x1	2host	/^  400efd:	48 83 c3 01          	add    $0x1,%rbx$/;"	v
+$0x1	2host	/^  400f36:	bf 01 00 00 00       	mov    $0x1,%edi$/;"	v
+$0x1	2host	/^  400f45:	bf 01 00 00 00       	mov    $0x1,%edi$/;"	v
+$0x10	2host	/^  400a9a:	ba 10 00 00 00       	mov    $0x10,%edx$/;"	v
+$0x13	2host	/^  400cea:	48 83 c0 13          	add    $0x13,%rax$/;"	v
+$0x19	1host	/^  40051a:	ba 19 00 00 00       	mov    $0x19,%edx$/;"	v
+$0x1b	2host	/^  400a3a:	ba 1b 00 00 00       	mov    $0x1b,%edx$/;"	v
+$0x2	2host	/^  400aea:	ba 02 00 00 00       	mov    $0x2,%edx$/;"	v
+$0x2	2host	/^  400b0d:	66 83 f8 02          	cmp    $0x2,%ax$/;"	v
+$0x2	2host	/^  400b2a:	ba 02 00 00 00       	mov    $0x2,%edx$/;"	v
+$0x2e	2host	/^  400ce2:	3c 2e                	cmp    $0x2e,%al$/;"	v
+$0x3	1host	/^  400495:	48 c1 fb 03          	sar    $0x3,%rbx$/;"	v
+$0x3	1host	/^  400589:	48 c1 fd 03          	sar    $0x3,%rbp$/;"	v
+$0x3	2host	/^  4009b5:	48 c1 fb 03          	sar    $0x3,%rbx$/;"	v
+$0x3	2host	/^  400b17:	66 83 f8 03          	cmp    $0x3,%ax$/;"	v
+$0x3	2host	/^  400ed9:	48 c1 fd 03          	sar    $0x3,%rbp$/;"	v
+$0x3610	2host	/^  400bdb:	b9 10 36 00 00       	mov    $0x3610,%ecx$/;"	v
+$0x3610	2host	/^  400d72:	be 10 36 00 00       	mov    $0x3610,%esi$/;"	v
+$0x38	1host	/^  40057c:	48 83 ec 38          	sub    $0x38,%rsp$/;"	v
+$0x38	1host	/^  4005d4:	48 83 c4 38          	add    $0x38,%rsp$/;"	v
+$0x38	2host	/^  400ecc:	48 83 ec 38          	sub    $0x38,%rsp$/;"	v
+$0x38	2host	/^  400f24:	48 83 c4 38          	add    $0x38,%rsp$/;"	v
+$0x4	2host	/^  400b44:	ba 04 00 00 00       	mov    $0x4,%edx$/;"	v
+$0x4	2host	/^  400c16:	ba 04 00 00 00       	mov    $0x4,%edx$/;"	v
+$0x4	2host	/^  400db5:	ba 04 00 00 00       	mov    $0x4,%edx$/;"	v
+$0x4	2host	/^  400ded:	48 83 c0 04          	add    $0x4,%rax$/;"	v
+$0x400504	1host	/^  40043d:	48 c7 c7 04 05 40 00 	mov    $0x400504,%rdi$/;"	v
+$0x400540	1host	/^  40042f:	49 c7 c0 40 05 40 00 	mov    $0x400540,%r8$/;"	v
+$0x400550	1host	/^  400436:	48 c7 c1 50 05 40 00 	mov    $0x400550,%rcx$/;"	v
+$0x400638	1host	/^  400512:	b8 38 06 40 00       	mov    $0x400638,%eax$/;"	v
+$0x400c5c	2host	/^  40095d:	48 c7 c7 5c 0c 40 00 	mov    $0x400c5c,%rdi$/;"	v
+$0x400e90	2host	/^  40094f:	49 c7 c0 90 0e 40 00 	mov    $0x400e90,%r8$/;"	v
+$0x400ea0	2host	/^  400956:	48 c7 c1 a0 0e 40 00 	mov    $0x400ea0,%rcx$/;"	v
+$0x400fa8	2host	/^  400a32:	b8 a8 0f 40 00       	mov    $0x400fa8,%eax$/;"	v
+$0x400fc4	2host	/^  400bb5:	bf c4 0f 40 00       	mov    $0x400fc4,%edi$/;"	v
+$0x400fc4	2host	/^  400c43:	bf c4 0f 40 00       	mov    $0x400fc4,%edi$/;"	v
+$0x400fce	2host	/^  400cba:	bf ce 0f 40 00       	mov    $0x400fce,%edi$/;"	v
+$0x400fd0	2host	/^  400d9e:	bf d0 0f 40 00       	mov    $0x400fd0,%edi$/;"	v
+$0x400fd0	2host	/^  400e4d:	bf d0 0f 40 00       	mov    $0x400fd0,%edi$/;"	v
+$0x400fd0	2host	/^  400e72:	bf d0 0f 40 00       	mov    $0x400fd0,%edi$/;"	v
+$0x45	2host	/^  400ac5:	3c 45                	cmp    $0x45,%al$/;"	v
+$0x46	2host	/^  400ad5:	3c 46                	cmp    $0x46,%al$/;"	v
+$0x4c	2host	/^  400acd:	3c 4c                	cmp    $0x4c,%al$/;"	v
+$0x6006f8	1host	/^  4005f6:	bb f8 06 60 00       	mov    $0x6006f8,%ebx$/;"	v
+$0x600718	1host	/^  4004f8:	bf 18 07 60 00       	mov    $0x600718,%edi$/;"	v
+$0x601120	2host	/^  400f66:	bb 20 11 60 00       	mov    $0x601120,%ebx$/;"	v
+$0x601140	2host	/^  400a18:	bf 40 11 60 00       	mov    $0x601140,%edi$/;"	v
+$0x6d83af	2host	/^  400b56:	3d af 83 6d 00       	cmp    $0x6d83af,%eax$/;"	v
+$0x6d83af	2host	/^  400b67:	c7 45 dc af 83 6d 00 	movl   $0x6d83af,-0x24(%rbp)$/;"	v
+$0x6d83af	2host	/^  400dca:	3d af 83 6d 00       	cmp    $0x6d83af,%eax$/;"	v
+$0x7f	2host	/^  400abd:	3c 7f                	cmp    $0x7f,%al$/;"	v
+$0x8	1host	/^  4003e3:	48 83 c4 08          	add    $0x8,%rsp$/;"	v
+$0x8	1host	/^  40044c:	48 83 ec 08          	sub    $0x8,%rsp$/;"	v
+$0x8	1host	/^  40045e:	48 83 c4 08          	add    $0x8,%rsp$/;"	v
+$0x8	1host	/^  400475:	48 83 ec 08          	sub    $0x8,%rsp$/;"	v
+$0x8	1host	/^  4005e5:	48 83 ec 08          	sub    $0x8,%rsp$/;"	v
+$0x8	1host	/^  400600:	48 83 eb 08          	sub    $0x8,%rbx$/;"	v
+$0x8	1host	/^  40060f:	48 83 c4 08          	add    $0x8,%rsp$/;"	v
+$0x8	1host	/^  400621:	48 83 c4 08          	add    $0x8,%rsp$/;"	v
+$0x8	2host	/^  4007e3:	48 83 c4 08          	add    $0x8,%rsp$/;"	v
+$0x8	2host	/^  40096c:	48 83 ec 08          	sub    $0x8,%rsp$/;"	v
+$0x8	2host	/^  40097e:	48 83 c4 08          	add    $0x8,%rsp$/;"	v
+$0x8	2host	/^  400995:	48 83 ec 08          	sub    $0x8,%rsp$/;"	v
+$0x8	2host	/^  400f55:	48 83 ec 08          	sub    $0x8,%rsp$/;"	v
+$0x8	2host	/^  400f70:	48 83 eb 08          	sub    $0x8,%rbx$/;"	v
+$0x8	2host	/^  400f7f:	48 83 c4 08          	add    $0x8,%rsp$/;"	v
+$0x8	2host	/^  400f91:	48 83 c4 08          	add    $0x8,%rsp$/;"	v
+$0x8000	2host	/^  400d0b:	3d 00 80 00 00       	cmp    $0x8000,%eax$/;"	v
+$0xe8	2host	/^  400a53:	48 81 ec e8 00 00 00 	sub    $0xe8,%rsp$/;"	v
+$0xe8	2host	/^  400c52:	48 81 c4 e8 00 00 00 	add    $0xe8,%rsp$/;"	v
+$0xf	2host	/^  400aa9:	48 83 f8 0f          	cmp    $0xf,%rax$/;"	v
+$0xf000	2host	/^  400d06:	25 00 f0 00 00       	and    $0xf000,%eax$/;"	v
+$0xf8	2host	/^  400c61:	48 81 ec f8 00 00 00 	sub    $0xf8,%rsp$/;"	v
+$0xf8	2host	/^  400e81:	48 81 c4 f8 00 00 00 	add    $0xf8,%rsp$/;"	v
+$0xfffffffffffffff0	1host	/^  400429:	48 83 e4 f0          	and    $0xfffffffffffffff0,%rsp$/;"	v
+$0xfffffffffffffff0	2host	/^  400949:	48 83 e4 f0          	and    $0xfffffffffffffff0,%rsp$/;"	v
+$0xfffffffffffffffc	2host	/^  400b2f:	48 c7 c6 fc ff ff ff 	mov    $0xfffffffffffffffc,%rsi$/;"	v
+$0xfffffffffffffffc	2host	/^  400dd9:	48 c7 c6 fc ff ff ff 	mov    $0xfffffffffffffffc,%rsi$/;"	v
+$0xffffffffffffffff	1host	/^  4005f0:	48 83 f8 ff          	cmp    $0xffffffffffffffff,%rax$/;"	v
+$0xffffffffffffffff	1host	/^  400609:	48 83 f8 ff          	cmp    $0xffffffffffffffff,%rax$/;"	v
+$0xffffffffffffffff	2host	/^  400a83:	83 7d e4 ff          	cmpl   $0xffffffffffffffff,-0x1c(%rbp)$/;"	v
+$0xffffffffffffffff	2host	/^  400bc2:	83 7d e0 ff          	cmpl   $0xffffffffffffffff,-0x20(%rbp)$/;"	v
+$0xffffffffffffffff	2host	/^  400f60:	48 83 f8 ff          	cmp    $0xffffffffffffffff,%rax$/;"	v
+$0xffffffffffffffff	2host	/^  400f79:	48 83 f8 ff          	cmp    $0xffffffffffffffff,%rax$/;"	v
+CURE_TMPFILE	cure.c	10;"	d	file:
+VIRUS_MAGIC	cure.c	9;"	d	file:
+VIRUS_MAGIC	virus.c	59;"	d	file:
+VIRUS_SIZE	cure.c	8;"	d	file:
+VIRUS_SIZE	virus.c	50;"	d	file:
+VIRUS_TMPEXEC	virus.c	56;"	d	file:
+VIRUS_TMPHOST	virus.c	53;"	d	file:
+dir	virus.c	/^	DIR *dir;$/;"	l
+e_ident	virus.c	/^	unsigned char e_ident[EI_NIDENT];$/;"	l
+e_type	virus.c	/^	uint16_t e_type;$/;"	l
+eax	2host	/^  400a80:	89 45 e4             	mov    %eax,-0x1c(%rbp)$/;"	v
+eax	2host	/^  400aa2:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400af2:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400b36:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400b4c:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400b7e:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400b92:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400ba6:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400bb3:	89 c6                	mov    %eax,%esi$/;"	v
+eax	2host	/^  400bbf:	89 45 e0             	mov    %eax,-0x20(%rbp)$/;"	v
+eax	2host	/^  400be7:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400c08:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400c1e:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400c28:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400c32:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400c98:	89 45 d4             	mov    %eax,-0x2c(%rbp)$/;"	v
+eax	2host	/^  400ca8:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400d2d:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400d77:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400d8f:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400d9c:	89 c6                	mov    %eax,%esi$/;"	v
+eax	2host	/^  400da8:	89 45 d8             	mov    %eax,-0x28(%rbp)$/;"	v
+eax	2host	/^  400dbd:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400de0:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400e13:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400e1d:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400e27:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400e33:	89 45 dc             	mov    %eax,-0x24(%rbp)$/;"	v
+eax	2host	/^  400e57:	89 c7                	mov    %eax,%edi$/;"	v
+eax	2host	/^  400e6b:	89 c7                	mov    %eax,%edi$/;"	v
+ebx	1host	/^  40059a:	31 db                	xor    %ebx,%ebx$/;"	v
+ebx	2host	/^  400be5:	89 de                	mov    %ebx,%esi$/;"	v
+ebx	2host	/^  400c06:	89 de                	mov    %ebx,%esi$/;"	v
+ebx	2host	/^  400e11:	89 de                	mov    %ebx,%esi$/;"	v
+ebx	2host	/^  400eea:	31 db                	xor    %ebx,%ebx$/;"	v
+edi	1host	/^  400583:	41 89 fd             	mov    %edi,%r13d$/;"	v
+edi	2host	/^  400a5a:	89 bd 1c ff ff ff    	mov    %edi,-0xe4(%rbp)$/;"	v
+edi	2host	/^  400c68:	89 bd 1c ff ff ff    	mov    %edi,-0xe4(%rbp)$/;"	v
+edi	2host	/^  400ed3:	41 89 fd             	mov    %edi,%r13d$/;"	v
+edi	2host	/^  400f43:	89 fe                	mov    %edi,%esi$/;"	v
+ent	virus.c	/^	struct dirent *ent;$/;"	l
+fd	cure.c	/^	int fd, tfd, magic;$/;"	l
+format	tags	/^!_TAG_FILE_FORMAT	2	\/extended format; --format=1 will not append ;" to lines\/$/;"	v
+hfd	virus.c	/^	int tfd, hfd, magic;$/;"	l
+infect	virus.c	/^int infect(int vfd, const char *host) {$/;"	f
+inode	virus.c	/^	ino_t inode;$/;"	l
+magic	cure.c	/^	int fd, tfd, magic;$/;"	l
+magic	virus.c	/^	int tfd, hfd, magic;$/;"	l
+magic	virus.c	/^	int vfd, xfd, magic;$/;"	l
+main	cure.c	/^int main(int argc, const char **argv) {$/;"	f
+main	host.c	/^int main() {$/;"	f
+main	virus.c	/^int main(int argc, char *const argv[], char *const envp[]) {$/;"	f
+n	virus.c	/^	ssize_t n;$/;"	l
+offset	virus.c	/^	off_t offset;$/;"	l
+payload	virus.c	/^void payload() {$/;"	f
+pid	virus.c	/^	pid_t pid;$/;"	l
+r12	1host	/^  400555:	4c 89 64 24 e0       	mov    %r12,-0x20(%rsp)$/;"	v
+r12	1host	/^  400580:	4c 29 e5             	sub    %r12,%rbp$/;"	v
+r12	2host	/^  400ea5:	4c 89 64 24 e0       	mov    %r12,-0x20(%rsp)$/;"	v
+r12	2host	/^  400ed0:	4c 29 e5             	sub    %r12,%rbp$/;"	v
+r13	1host	/^  400568:	4c 89 6c 24 e8       	mov    %r13,-0x18(%rsp)$/;"	v
+r13	2host	/^  400eb8:	4c 89 6c 24 e8       	mov    %r13,-0x18(%rsp)$/;"	v
+r13d	1host	/^  4005a6:	44 89 ef             	mov    %r13d,%edi$/;"	v
+r13d	2host	/^  400ef6:	44 89 ef             	mov    %r13d,%edi$/;"	v
+r14	1host	/^  40056d:	4c 89 74 24 f0       	mov    %r14,-0x10(%rsp)$/;"	v
+r14	1host	/^  4005a3:	4c 89 f6             	mov    %r14,%rsi$/;"	v
+r14	2host	/^  400ebd:	4c 89 74 24 f0       	mov    %r14,-0x10(%rsp)$/;"	v
+r14	2host	/^  400ef3:	4c 89 f6             	mov    %r14,%rsi$/;"	v
+r15	1host	/^  400572:	4c 89 7c 24 f8       	mov    %r15,-0x8(%rsp)$/;"	v
+r15	1host	/^  4005a0:	4c 89 fa             	mov    %r15,%rdx$/;"	v
+r15	2host	/^  400ec2:	4c 89 7c 24 f8       	mov    %r15,-0x8(%rsp)$/;"	v
+r15	2host	/^  400ef0:	4c 89 fa             	mov    %r15,%rdx$/;"	v
+rax	1host	/^  400457:	48 85 c0             	test   %rax,%rax$/;"	v
+rax	1host	/^  4004ac:	48 89 05 4d 04 20 00 	mov    %rax,0x20044d(%rip)        # 600900 <dtor_idx.6351>$/;"	v
+rax	1host	/^  4004f3:	48 85 c0             	test   %rax,%rax$/;"	v
+rax	1host	/^  400524:	48 89 c7             	mov    %rax,%rdi$/;"	v
+rax	2host	/^  400977:	48 85 c0             	test   %rax,%rax$/;"	v
+rax	2host	/^  4009cc:	48 89 05 dd 09 20 00 	mov    %rax,0x2009dd(%rip)        # 6013b0 <dtor_idx.6351>$/;"	v
+rax	2host	/^  400a13:	48 85 c0             	test   %rax,%rax$/;"	v
+rax	2host	/^  400a44:	48 89 c7             	mov    %rax,%rdi$/;"	v
+rax	2host	/^  400a73:	48 89 c7             	mov    %rax,%rdi$/;"	v
+rax	2host	/^  400bf5:	48 89 c2             	mov    %rax,%rdx$/;"	v
+rax	2host	/^  400c40:	48 89 c6             	mov    %rax,%rsi$/;"	v
+rax	2host	/^  400c8b:	48 89 c7             	mov    %rax,%rdi$/;"	v
+rax	2host	/^  400cb6:	48 89 45 e8          	mov    %rax,-0x18(%rbp)$/;"	v
+rax	2host	/^  400cc4:	48 89 45 c0          	mov    %rax,-0x40(%rbp)$/;"	v
+rax	2host	/^  400ccc:	48 89 c7             	mov    %rax,%rdi$/;"	v
+rax	2host	/^  400cd4:	48 89 45 c8          	mov    %rax,-0x38(%rbp)$/;"	v
+rax	2host	/^  400cf8:	48 89 c7             	mov    %rax,%rdi$/;"	v
+rax	2host	/^  400d41:	48 89 c7             	mov    %rax,%rdi$/;"	v
+rax	2host	/^  400d49:	48 89 45 c8          	mov    %rax,-0x38(%rbp)$/;"	v
+rax	2host	/^  400d58:	48 89 c7             	mov    %rax,%rdi$/;"	v
+rax	2host	/^  400d7e:	48 89 45 e0          	mov    %rax,-0x20(%rbp)$/;"	v
+rax	2host	/^  400df1:	48 89 45 e0          	mov    %rax,-0x20(%rbp)$/;"	v
+rax	2host	/^  400e00:	48 89 c2             	mov    %rax,%rdx$/;"	v
+rax	2host	/^  400e4a:	48 89 c6             	mov    %rax,%rsi$/;"	v
+rbp	1host	/^  400550:	48 89 6c 24 d8       	mov    %rbp,-0x28(%rsp)$/;"	v
+rbp	1host	/^  400595:	48 85 ed             	test   %rbp,%rbp$/;"	v
+rbp	1host	/^  4005b1:	48 39 eb             	cmp    %rbp,%rbx$/;"	v
+rbp	2host	/^  400ea0:	48 89 6c 24 d8       	mov    %rbp,-0x28(%rsp)$/;"	v
+rbp	2host	/^  400ee5:	48 85 ed             	test   %rbp,%rbp$/;"	v
+rbp	2host	/^  400f01:	48 39 eb             	cmp    %rbp,%rbx$/;"	v
+rbx	1host	/^  40049d:	48 39 d8             	cmp    %rbx,%rax$/;"	v
+rbx	1host	/^  400577:	48 89 5c 24 d0       	mov    %rbx,-0x30(%rsp)$/;"	v
+rbx	2host	/^  4009bd:	48 39 d8             	cmp    %rbx,%rax$/;"	v
+rbx	2host	/^  400ec7:	48 89 5c 24 d0       	mov    %rbx,-0x30(%rsp)$/;"	v
+rcx	2host	/^  400a9f:	48 89 ce             	mov    %rcx,%rsi$/;"	v
+rcx	2host	/^  400aef:	48 89 ce             	mov    %rcx,%rsi$/;"	v
+rcx	2host	/^  400b49:	48 89 ce             	mov    %rcx,%rsi$/;"	v
+rcx	2host	/^  400c1b:	48 89 ce             	mov    %rcx,%rsi$/;"	v
+rcx	2host	/^  400dba:	48 89 ce             	mov    %rcx,%rsi$/;"	v
+rdi	2host	/^  400f33:	48 89 fe             	mov    %rdi,%rsi$/;"	v
+rdx	1host	/^  400422:	49 89 d1             	mov    %rdx,%r9$/;"	v
+rdx	1host	/^  400517:	48 89 d1             	mov    %rdx,%rcx$/;"	v
+rdx	1host	/^  40058d:	49 89 d7             	mov    %rdx,%r15$/;"	v
+rdx	2host	/^  400942:	49 89 d1             	mov    %rdx,%r9$/;"	v
+rdx	2host	/^  400a37:	48 89 d1             	mov    %rdx,%rcx$/;"	v
+rdx	2host	/^  400ba3:	48 89 d6             	mov    %rdx,%rsi$/;"	v
+rdx	2host	/^  400bfe:	48 89 d1             	mov    %rdx,%rcx$/;"	v
+rdx	2host	/^  400c75:	48 89 95 08 ff ff ff 	mov    %rdx,-0xf8(%rbp)$/;"	v
+rdx	2host	/^  400ca5:	48 89 d6             	mov    %rdx,%rsi$/;"	v
+rdx	2host	/^  400cf5:	48 89 d6             	mov    %rdx,%rsi$/;"	v
+rdx	2host	/^  400d2a:	48 89 d6             	mov    %rdx,%rsi$/;"	v
+rdx	2host	/^  400d8c:	48 89 d6             	mov    %rdx,%rsi$/;"	v
+rdx	2host	/^  400e09:	48 89 d1             	mov    %rdx,%rcx$/;"	v
+rdx	2host	/^  400edd:	49 89 d7             	mov    %rdx,%r15$/;"	v
+rsi	1host	/^  400586:	49 89 f6             	mov    %rsi,%r14$/;"	v
+rsi	2host	/^  400a60:	48 89 b5 10 ff ff ff 	mov    %rsi,-0xf0(%rbp)$/;"	v
+rsi	2host	/^  400c6e:	48 89 b5 10 ff ff ff 	mov    %rsi,-0xf0(%rbp)$/;"	v
+rsi	2host	/^  400ed6:	49 89 f6             	mov    %rsi,%r14$/;"	v
+rsi	2host	/^  400f30:	48 89 f2             	mov    %rsi,%rdx$/;"	v
+rsi	2host	/^  400f40:	48 89 f2             	mov    %rsi,%rdx$/;"	v
+rsp	1host	/^  400426:	48 89 e2             	mov    %rsp,%rdx$/;"	v
+rsp	1host	/^  400471:	48 89 e5             	mov    %rsp,%rbp$/;"	v
+rsp	1host	/^  4004e9:	48 89 e5             	mov    %rsp,%rbp$/;"	v
+rsp	1host	/^  400505:	48 89 e5             	mov    %rsp,%rbp$/;"	v
+rsp	1host	/^  4005e1:	48 89 e5             	mov    %rsp,%rbp$/;"	v
+rsp	2host	/^  400946:	48 89 e2             	mov    %rsp,%rdx$/;"	v
+rsp	2host	/^  400991:	48 89 e5             	mov    %rsp,%rbp$/;"	v
+rsp	2host	/^  400a09:	48 89 e5             	mov    %rsp,%rbp$/;"	v
+rsp	2host	/^  400a25:	48 89 e5             	mov    %rsp,%rbp$/;"	v
+rsp	2host	/^  400a4f:	48 89 e5             	mov    %rsp,%rbp$/;"	v
+rsp	2host	/^  400c5d:	48 89 e5             	mov    %rsp,%rbp$/;"	v
+rsp	2host	/^  400f51:	48 89 e5             	mov    %rsp,%rbp$/;"	v
+st	cure.c	/^	struct stat st;$/;"	l
+st	virus.c	/^	struct stat st;$/;"	l
+tfd	cure.c	/^	int fd, tfd, magic;$/;"	l
+tfd	virus.c	/^	int tfd, hfd, magic;$/;"	l
+vfd	virus.c	/^	int vfd, xfd, magic;$/;"	l
+xfd	virus.c	/^	int vfd, xfd, magic;$/;"	l
