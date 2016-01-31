@@ -1,6 +1,6 @@
 /*
  * virus.c
- * Author: Mark Swoope (markswoope0@gmail.com)
+ * Author: Protovision
  * Date: 21 September 2013
  * 
  * This a simple prepending virus for ELF executables.
